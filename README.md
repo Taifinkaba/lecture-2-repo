@@ -15,3 +15,8 @@ step 4b: push changes into remote repo. (git push)
 ## free recall:
 what is a repo?
 repo is a repository that collects files
+
+
+
+
+messed up on the last one heres practice.
